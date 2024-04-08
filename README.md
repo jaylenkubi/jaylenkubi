@@ -7,6 +7,7 @@
 
 ### <img src="https://i.imgur.com/7HimGxg.gif" width="50"> A little more about me...  
 
+```javascript
 javascript
 const Jaylen = {
   pronouns: "He" | "his",
