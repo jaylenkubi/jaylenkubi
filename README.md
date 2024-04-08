@@ -13,7 +13,8 @@ const Jaylen = {
   pronouns: "He" | "his",
   code: [HTML5, CSS3, SASS, Boostrap, TailwindCss, Javascript, Python, Typescript],
   tools: [React, Express, Node, MongoDB, Django, Next, Nest, Postgres, SQL, Git, Docker, GCP, Firebase ],
-  portfolio: 
+  portfolio:
+
  challenge: "I am building an ecommerce app using typescript, nodejs (backend) and react (frontend)"
 }
 
